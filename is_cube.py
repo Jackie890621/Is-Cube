@@ -35,7 +35,7 @@ for i in range(1, len(dist)):
             break
 
 if (flag):
-    print("It's a Square!!!")
+    print("It's a Cube!!!")
 else:
-    print("It's not a Square!!!")
+    print("It's not a Cube!!!")
     
