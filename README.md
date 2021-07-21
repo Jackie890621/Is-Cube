@@ -1,0 +1,2 @@
+# Is-Square
+python3
