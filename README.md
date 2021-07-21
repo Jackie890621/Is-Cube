@@ -1,4 +1,4 @@
-# Is-Square
+# Is-Cube
 python3
 ## Objective
 * A testcase with 8 coordinates in x-y-z system
